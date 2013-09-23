@@ -1,15 +1,13 @@
-total 1002064
+total wat?
 drwxr-xr-x    2 tlberglund  staff         68 Sep  6 06:31 Applications
-drwxr-xr-x@   8 tlberglund  staff        272 Sep 18 07:36 Box Documents
 drwx------+  15 tlberglund  staff        510 Sep 22 06:29 Desktop
 drwx------+  52 tlberglund  staff       1768 Sep 14 14:34 Documents
 drwx------+  49 tlberglund  staff       1666 Sep 23 08:15 Downloads
 drwx------@  34 tlberglund  staff       1156 Sep 18 07:36 Dropbox
-drwxr-xr-x    4 tlberglund  staff        136 Dec  3  2012 Dropbox-github
 drwx------@  61 tlberglund  staff       2074 Sep 10 20:43 Library
 drwx------+  28 tlberglund  staff        952 Sep 20 09:22 Movies
 drwx------+   9 tlberglund  staff        306 Sep 26  2012 Muzak
-drwx------   53 tlberglund  staff       1802 Jul 26  2012 new Personal Documents
+drwx------   53 tlberglund  staff       1802 Jul 26  2012 New Personal Documents
 drwx------+  59 tlberglund  staff       2006 Aug 28 17:56 Pictures
 drwxr-xr-x+   5 tlberglund  staff        170 Jul 25  2012 Public
 drwxr-xr-x   65 tlberglund  staff       2210 Sep  5 07:44 Purchased Software
