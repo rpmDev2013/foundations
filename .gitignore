@@ -1,0 +1,10 @@
+junk*.txt
+target/
+build/
+out/
+bin/
+.project
+.classpath
+.settings/
+*.log
+
